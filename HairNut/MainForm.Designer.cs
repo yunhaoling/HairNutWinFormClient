@@ -81,6 +81,7 @@
             this.imageAfter.Location = new System.Drawing.Point(403, 26);
             this.imageAfter.Name = "imageAfter";
             this.imageAfter.Size = new System.Drawing.Size(256, 256);
+            this.imageAfter.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.imageAfter.TabIndex = 3;
             this.imageAfter.TabStop = false;
             // 
