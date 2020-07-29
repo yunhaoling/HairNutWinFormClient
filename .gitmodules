@@ -1,0 +1,3 @@
+[submodule "HairNut/models"]
+	path = HairNut/models
+	url = https://github.com/hebiao064/HairNut
